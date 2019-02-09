@@ -1,1 +1,3 @@
-# jihwan
+# ALGORITHM
+
+## Codility
